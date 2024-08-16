@@ -1,4 +1,4 @@
-# Socraft : Votre Communauté IT Suisse 🌍💻
+# socraft : Votre Communauté IT Suisse 🌍💻
 
 Bienvenue sur l'organisation GitHub de **socraft** ! Nous sommes une entreprise suisse spécialisée dans le développement de logiciels, unie par une communauté d'indépendants passionnés par l'IT. Notre mission est de fournir des solutions innovantes, tout en encourageant la collaboration à travers des projets open source.
 
